@@ -1,0 +1,5 @@
+Ku access admin panel use
+http://localhost/bikerental/admin/
+
+username : admin
+Pass : Anto1234
